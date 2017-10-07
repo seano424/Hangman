@@ -1,0 +1,39 @@
+
+
+
+header {
+	border: 3px solid black;
+	height: 300px;
+	font-size: 20px;
+	text-align: center;
+	width: 80%;
+	margin: 50px auto;
+	font-size: 50px;
+}
+
+.underscore {
+	border: 3px solid black;
+	height: 250px;
+	font-size: 100px;
+	text-align: center;
+	width: 80%;
+	margin: 50px auto;	
+}
+
+.rightGuess {
+	border: 3px solid black;
+	height: 150px;
+	font-size: 50px;
+	text-align: center;
+	width: 80%;
+	margin: 50px auto;
+}
+
+.wrongGuess {
+	border: 3px solid black;
+	height: 150px;
+	font-size: 50px;
+	text-align: center;
+	width: 80%;
+	margin: 50px auto;
+}
